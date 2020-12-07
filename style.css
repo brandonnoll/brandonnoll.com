@@ -1,7 +1,7 @@
 body {
     background-color: antiquewhite;
   }
-  
+  /*
   div {
     background-color: white;
     width: 750px;
@@ -12,6 +12,7 @@ body {
     padding-left: 1%;
     padding-right: 1%;
   }
+  */
   footer{
     padding-top: 1%;
     text-align: center;
@@ -65,8 +66,24 @@ body {
     padding:10px;
     color:gray;
 }
-.resume-inner{
-    height: 1000px;
-    text-align: center;
+.section-inner{
+  background-color: white;
+  width: 750px;
+  height: 800px;
+  margin: 0 auto;
+  font-family: Arial, Geneva, Helvetica, sans-serif;
+  padding-top: .01%;
+  padding-left: 1%;
+  padding-right: 1%;
 }
-  
+.resume-inner{
+  background-color: white;
+  width: 750px;
+  height: 1000px;
+  margin: 0 auto;
+  font-family: Arial, Geneva, Helvetica, sans-serif;
+  padding-top: .01%;
+  padding-left: 1%;
+  padding-right: 1%;
+  text-align: center;
+}
